@@ -1,1 +1,1 @@
-# Time-Conversion-algo
+# Time-Conversion-algo This program converts a given 12-hour AM/PM formatted time into a 24-hour military time format. It adjusts the hour based on whether the time is "AM" or "PM" and then returns the correctly formatted string.
